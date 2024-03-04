@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Victoarr
+- 👋 Hi, I’m Victor
 
 <!---
 Victoarr/Victoarr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
